@@ -1,5 +1,6 @@
 # Netflix-Layout
-Recriação a interface da Netlfix, uma provedora global de filmes e séries de televisão via streaming.
+
+Netflix Layout clone, using Owl Carousel 2. Made with HTML, CSS3 and Javascript.
 
 # Desktop view.
 
